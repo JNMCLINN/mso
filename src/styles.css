@@ -1,1 +1,31 @@
-/* You can add global styles to this file, and also import other style files */
+body, html {
+  height: 100%;
+}
+.lock {
+  background-image: url("src/assets/images/lock.jpeg");
+  height: 80%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.iwojima {
+  background-image: url("src/assets/images/iwojima.jpg");
+  height: 80%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.ega {
+  background-image: url("src/assets/images/ega.png");
+  height: 80%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.cloud {
+  background-image: url("src/assets/images/cloud_.jpg");
+  height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+}
